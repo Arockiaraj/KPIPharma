@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="af3703f0-e219-4658-ac6f-96d1caa87caf" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="EditServiceRequest.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="EditServiceRequest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d6acdc5bc0e73abf" Namespace="EditServiceRequest.EditServiceRequest" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\EditServiceRequest\EditServiceRequest\EditServiceRequestUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="EditServiceRequest_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

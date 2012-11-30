@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="c9b86a39-e18e-49a1-ad98-3732b2c3ae8f" Scope="Site" Title="Service Request Feature1">
+  <ElementManifests>
+    <ElementManifest Location="Submit Service Request\Elements.xml" />
+    <ElementFile Location="Submit Service Request\Submit Service Request.webpart" />
+    <ElementManifest Location="Service Request Tasks\Elements.xml" />
+    <ElementFile Location="Service Request Tasks\Service Request Tasks.webpart" />
+  </ElementManifests>
+</Feature>

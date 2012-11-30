@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="136da037-0ed9-46ed-bd44-8c5155bebb3c" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="LookUp.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="LookUp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ba029b26afe2efc4" Namespace="LookUp.Lookup" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\LookUp\Lookup\LookupUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="LookUp_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

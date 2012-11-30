@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="136da037-0ed9-46ed-bd44-8c5155bebb3c" solutionId="136da037-0ed9-46ed-bd44-8c5155bebb3c" resetWebServer="false" name="LookUp" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="c344eb26-3cde-4cc3-9be4-3b760f9f9500" />
+  </features>
+</package>

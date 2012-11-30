@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LookUp\LookUp\bin\Debug\LookUp.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LookUp\LookUp\bin\Debug\LookUp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LookUp\LookUp\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LookUp\LookUp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LookUp\LookUp\obj\Debug\LookUp.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LookUp\LookUp\obj\Debug\LookUp.pdb

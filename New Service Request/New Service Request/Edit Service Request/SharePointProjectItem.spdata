@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="Edit Service RequestUserControl.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Edit Service Request\" Type="ElementManifest" />
+    <ProjectItemFile Source="Edit Service Request.webpart" Target="Edit Service Request\" Type="ElementFile" />
+    <ProjectItemFile Source="Edit Service RequestUserControl.ascx" Target="CONTROLTEMPLATES\New_Service_Request\Edit Service Request\" Type="TemplateFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="New_Service_Request.Edit_Service_Request" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>

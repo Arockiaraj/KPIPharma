@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="1fafb6c2-f2eb-4257-9a9f-3fc8ddb297f4" Scope="Site" Title="EditServiceRequest Feature1">
+  <ElementManifests>
+    <ElementManifest Location="EditServiceRequest\Elements.xml" />
+    <ElementFile Location="EditServiceRequest\EditServiceRequest.webpart" />
+  </ElementManifests>
+</Feature>

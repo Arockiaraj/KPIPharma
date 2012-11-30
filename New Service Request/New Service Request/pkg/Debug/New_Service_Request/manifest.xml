@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ed4420d0-8dd5-4408-918c-4b2db209606c" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="New Service Request.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="New Service Request, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c68dfd47b925b98b" Namespace="New_Service_Request.Service_Request" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\New_Service_Request\Service Request\Service RequestUserControl.ascx" />
+    <TemplateFile Location="Layouts\New Service Request\Stylesheet1.css" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="New Service Request_New Service Request\Feature.xml" />
+  </FeatureManifests>
+</Solution>

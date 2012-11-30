@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="Service Request TasksUserControl.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Service Request Tasks\" Type="ElementManifest" />
+    <ProjectItemFile Source="Service Request Tasks.webpart" Target="Service Request Tasks\" Type="ElementFile" />
+    <ProjectItemFile Source="Service Request TasksUserControl.ascx" Target="CONTROLTEMPLATES\Service_Request\Service Request Tasks\" Type="TemplateFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="Service_Request.Service_Request_Tasks" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>

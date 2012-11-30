@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="316ed03e-185e-4cb2-855b-85a9669c6e5c" Scope="Site" Title="LookUp Feature1">
+  <ElementManifests>
+    <ElementManifest Location="Lookup\Elements.xml" />
+    <ElementFile Location="Lookup\Lookup.webpart" />
+  </ElementManifests>
+</Feature>

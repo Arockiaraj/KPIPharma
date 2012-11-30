@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="19570e58-3a53-4998-8974-428395cc1f72" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Service Request.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Service Request, Version=1.0.0.0, Culture=neutral, PublicKeyToken=58c2cd10e016c498" Namespace="Service_Request.Submit_Service_Request" TypeName="*" />
+        <SafeControl Assembly="Service Request, Version=1.0.0.0, Culture=neutral, PublicKeyToken=58c2cd10e016c498" Namespace="Service_Request.Service_Request_Tasks" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Service_Request\Submit Service Request\Submit Service RequestUserControl.ascx" />
+    <TemplateFile Location="CONTROLTEMPLATES\Service_Request\Service Request Tasks\Service Request TasksUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="Service Request_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

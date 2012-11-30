@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EditServiceRequest\EditServiceRequest\bin\Debug\EditServiceRequest.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EditServiceRequest\EditServiceRequest\bin\Debug\EditServiceRequest.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EditServiceRequest\EditServiceRequest\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EditServiceRequest\EditServiceRequest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EditServiceRequest\EditServiceRequest\obj\Debug\EditServiceRequest.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EditServiceRequest\EditServiceRequest\obj\Debug\EditServiceRequest.pdb

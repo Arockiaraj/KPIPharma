@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="2729a8db-d5c8-4443-945a-77b4bce50798" Scope="Site" Title="New Service Request Feature">
+  <ElementManifests>
+    <ElementManifest Location="Service Request\Elements.xml" />
+    <ElementFile Location="Service Request\Service Request.webpart" />
+  </ElementManifests>
+</Feature>
